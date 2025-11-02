@@ -9,12 +9,8 @@ body {
     background-position: center center;
 
     background-color: darkblue;
-    color: #edf2f4;
-    text-shadow: 
-        -1px -1px 0 #000,
-        1px -1px 0 #000,
-        -1px 1px 0 #000,
-        1px 1px 0 #000;
+    color: white;
+
     text-align: center;
 }
 
