@@ -4,10 +4,6 @@
 }
 
 body {
-    font-family: "Google Sans Code", monospace;
-    font-optical-sizing: auto;
-    font-weight: 300;
-    font-style: normal;
 
     background-image: url(https://img.freepik.com/premium-vector/dark-blue-vector-layout-with-restaurant-food_6869-2086.jpg);
     background-position: center center;
@@ -36,7 +32,6 @@ body {
 	margin: 0 auto;
     margin-top: 15px;
     border-radius: 15px;
-    outline: #000 dashed 3px;
 }
 
 #menu {
@@ -45,14 +40,12 @@ body {
 	margin: 0 auto;
     margin-top: 30px;
     border-radius: 15px;
-    outline: #000 dashed 3px;
 }
 
 #order-now {
     padding: 10px;
     margin: 0 auto;
     margin-top: 30px;
-    border-radius: 10px;
 }
 
 #order-body {
@@ -61,7 +54,6 @@ body {
 	margin: 0 auto;
     margin-top: 15px;
     border-radius: 15px;
-    outline: #000 dashed 3px;
 }
 
 #customer-details, #menu-section {
@@ -71,7 +63,6 @@ body {
 #order-button {
     background-color: white;
     color: #ad2e24;
-    outline: #000 dashed 3px;
     size: 100px;
 }
 
@@ -81,7 +72,6 @@ body {
 	margin: 20px;
     margin-top: 100px;
     border-radius: 10px;
-    outline: #000 dashed 3px;
 }
 
 footer {
@@ -95,7 +85,6 @@ footer {
     margin-top: 200px;
     max-width: 92.5%;
     border-radius: 10px;
-    outline: #000 dashed 3px;
     bottom: 0;
 }
 
@@ -106,7 +95,6 @@ footer {
     margin-top: 50px;
     max-width: 62.5%;
     border-radius: 10px;
-    outline: #000 dashed 3px;
     bottom: 0;
 }
 
@@ -117,7 +105,6 @@ footer {
     margin-top: 50px;
     max-width: 92.5%;
     border-radius: 10px;
-    outline: #000 dashed 3px;
     bottom: 0;
 }
 
@@ -128,12 +115,11 @@ footer {
     margin-top: 25px;
     max-width: 92.5%;
     border-radius: 10px;
-    outline: #000 dashed 3px;
     bottom: 0;
 }
 
 thead, tbody {
-    background-color: #ad2e24;
+    background-color: lightskyblue;
     border: 1px solid #000000;
 }
 
