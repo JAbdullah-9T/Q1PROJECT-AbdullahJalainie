@@ -22,13 +22,7 @@ body {
     color: white;
 }
 
-#contact-header, #homepage-header, #order-header {
-    background-color: rgba(24, 227, 230, 0.5);
-    padding: 30px;
-	margin: 0 auto;
-    margin-top: 15px;
-    border-radius: 15px;
-}
+
 
 #menu {
     background-color: rgb(36, 155, 173);
